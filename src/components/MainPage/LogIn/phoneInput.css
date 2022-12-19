@@ -1,0 +1,14 @@
+.PhoneInputInput {
+	height: 30px;
+    background-color: #E4E4E7ff;
+    outline: 0;
+
+  border-width: 0 0 2px;
+  border-color: #E4E4E7ff;
+  margin-left: 9px;
+    
+}
+.PhoneInputInput:focus {
+    
+	border-color: dodgerblue;
+}
